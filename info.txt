@@ -1,0 +1,6 @@
+selected resource name:		blob_e_banco
+selected resource type:		pipeline
+factory name:			grupo-03
+factory location:		eastus
+subscription id:		e9f266b7-47a3-4c25-a8b7-522266df7180
+time of download (UTC):		Thu, 04 Nov 2021 18:30:49 GMT
